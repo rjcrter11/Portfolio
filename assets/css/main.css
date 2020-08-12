@@ -2275,6 +2275,10 @@ input, select, textarea {
 			margin-left: 5rem;  
 		}
 
+		ul.actions.submit {
+			margin-top: 1rem; 
+		}
+
 		ul.actions.stacked {
 			-moz-flex-direction: column;
 			-webkit-flex-direction: column;
