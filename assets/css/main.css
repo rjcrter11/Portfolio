@@ -2037,6 +2037,7 @@ input, select, textarea {
 
 /* Image */
 
+
 	.image {
 		border-radius: 0.35em;
 		border: 0;
@@ -2269,6 +2270,10 @@ input, select, textarea {
 			ul.actions.special li:first-child {
 				padding-left: 0;
 			}
+		ul.actions.resume {
+			margin-top: 1.5rem;
+			margin-left: 5rem;  
+		}
 
 		ul.actions.stacked {
 			-moz-flex-direction: column;
